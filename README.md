@@ -18,9 +18,9 @@ The dataset, sourced from Spotify’s user data access options, contains the fol
 * Python 3.7 or higher: For data loading, cleaning, analysis, and visualization
 * Tableau: For creating an interactive dashboard to explore trends more dynamically
 * Libraries
-** pandas: For data manipulation and cleaning
-** numpy: For efficient numerical operations
-** matplotlib & seaborn: For initial data visualizations and analysis
+  * pandas: For data manipulation and cleaning
+  * numpy: For efficient numerical operations
+  * matplotlib & seaborn: For initial data visualizations and analysis
 
 ## Data Collection: 
 * Data was downloaded directly from Spotify’s user account portal, which allows users to export their listening history. This data represents a comprehensive log of every track played, including details on the time, artist, and duration.
