@@ -1,5 +1,5 @@
 # Spotify Year-in-Review: Data Science and Visualization of Personal Listening Trends with Python and Tableau
-⭐️[Tableau Dashboard HERE]([https://public.tableau.com/views/SpotifyPersonalProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/HHJ3PJZXJ?:display_count=n&:origin=viz_share_link))⭐️
+⭐️[Tableau Dashboard HERE](https://public.tableau.com/shared/HHJ3PJZXJ?:display_count=n&:origin=viz_share_link)⭐️
 
 ## Introduction: 
 This project offers a comprehensive analysis of a Spotify listening history dataset to uncover personal listening trends over the past year. By leveraging Python for data processing and Tableau for visualization, the project provides insights into favorite artists, seasonal listening habits, peak times for music, and much more. Designed for music enthusiasts and data analysts, this notebook aims to uncover hidden patterns in music consumption and showcase these trends in an engaging, interactive format.
@@ -52,7 +52,7 @@ To streamline the analysis, various new DataFrames were created to address speci
 * Python Visualizations
 Initial data visualization in Google Colab provided a basis for understanding core listening habits.
 
-* [Tableau Dashboard HERE]([https://public.tableau.com/views/SpotifyPersonalProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/HHJ3PJZXJ?:display_count=n&:origin=viz_share_link))
+* [Tableau Dashboard HERE](https://public.tableau.com/shared/HHJ3PJZXJ?:display_count=n&:origin=viz_share_link)
 
 ## Notable Findings
 Several interesting insights were uncovered through this analysis:
