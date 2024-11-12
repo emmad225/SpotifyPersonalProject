@@ -68,5 +68,3 @@ This project opens the door to several additional analysis avenues:
 * Predictive Modeling: Developing models to predict future listening habits based on past trends.
 * Genre Analysis: Expanding the dataset with genre labels to explore genre preferences over time and by season.
 * Web Application for User Data Upload: Develop this project into a web application where users can upload their Spotify listening data to generate their own personalized year-in-review reports. This app could visualize key metrics like top artists, peak listening times, and seasonal trends, creating a unique, interactive experience for any user interested in analyzing their music habits.
-
-[Tableau Dashboard HERE](https://public.tableau.com/views/SpotifyPersonalProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
