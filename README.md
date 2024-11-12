@@ -4,7 +4,7 @@ Introduction:
 *The aim of this project was to analyze my Spotify listening data over the past year and create insights into my listening habits, favorite artists, genres, and seasonal trends.
 
 Tools Used:
-*I used Python (Google Colab) for data cleaning, exploratory analysis, and initial visualizations, then used Tableau to create an interactive dashboard.
+* I used Python (Google Colab) for data cleaning, exploratory analysis, and initial visualizations, then used Tableau to create an interactive dashboard.
 
 Data Collection: 
 *I downloaded my Spotify data directly from my account as part of Spotify’s user data access options. 
