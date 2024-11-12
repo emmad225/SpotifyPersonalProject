@@ -1,4 +1,4 @@
-# Spotify Year-in-Review Analysis; Exploring My Personal Music Listening Trends Using Python and Tableau
+# Spotify Year-in-Review: Data Science and Visualization of Personal Listening Trends with Python and Tableau
 ⭐️[Tableau Dashboard HERE](https://public.tableau.com/views/SpotifyPersonalProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)⭐️
 
 ## Introduction: 
