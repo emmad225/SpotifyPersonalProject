@@ -1,7 +1,7 @@
 # Spotify Year-in-Review Analysis; Exploring My Personal Music Listening Trends Using Python and Tableau
 
 Introduction: 
-*The aim of this project was to analyze my Spotify listening data over the past year and create insights into my listening habits, favorite artists, genres, and seasonal trends.
+* The aim of this project was to analyze my Spotify listening data over the past year and create insights into my listening habits, favorite artists, genres, and seasonal trends.
 
 Tools Used:
 * I used Python (Google Colab) for data cleaning, exploratory analysis, and initial visualizations, then used Tableau to create an interactive dashboard.
