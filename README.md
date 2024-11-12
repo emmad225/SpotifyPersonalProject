@@ -51,7 +51,7 @@ To streamline the analysis, various new DataFrames were created to address speci
 * Python Visualizations
 Initial data visualization in Google Colab provided a basis for understanding core listening habits.
 
-* Tableau Dashboard
+* [Tableau Dashboard] (https://public.tableau.com/views/SpotifyPersonalProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 An interactive dashboard was developed in Tableau to enhance data exploration.
 LINK HERE
 
@@ -71,4 +71,4 @@ This project opens the door to several additional analysis avenues:
 * Genre Analysis: Expanding the dataset with genre labels to explore genre preferences over time and by season.
 * Web Application for User Data Upload: Develop this project into a web application where users can upload their Spotify listening data to generate their own personalized year-in-review reports. This app could visualize key metrics like top artists, peak listening times, and seasonal trends, creating a unique, interactive experience for any user interested in analyzing their music habits.
 
-Tableau Dashboard: LINK
+[Tableau Dashboard] ([Tableau Dashboard] (https://public.tableau.com/views/SpotifyPersonalProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
