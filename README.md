@@ -17,7 +17,6 @@ The dataset, sourced from Spotify’s user data access options, contains the fol
 ## Technologies Used:
 
 * Python
-* Libraries
   * pandas: For data manipulation and cleaning
   * numpy: For efficient numerical operations
   * matplotlib & seaborn: For initial data visualizations and analysis
