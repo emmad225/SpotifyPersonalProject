@@ -57,9 +57,9 @@ Initial data visualization in Google Colab provided a basis for understanding co
 ## Notable Findings
 Several interesting insights were uncovered through this analysis:
 
-* Seasonal Trends: Certain artists had peaks during specific times of the year. For example, Taylor Swift's music was most frequently played in spring autumn, while tracks by Drake and Nicki Minaj had peaks in autumn and winter respectively. 
+* Seasonal Trends: Certain artists had peaks during specific times of the year. For example, Taylor Swift's music was most frequently played in spring and autumn, while tracks by Drake and Nicki Minaj peaked in autumn and winter respectively. 
 * Top Artists and Tracks: The most frequently played artists included Taylor Swift, Drake, Nicki Minaj, Tate McRae, and Sabrina Carpenter.
-* Peak Listening Hours: Most listening occurred in the afternoon and evenings, particularly after 1pm, suggesting music as a common evening activity.
+* Peak Listening Hours: Most listening occurred after 1pm, suggesting music as a common afternoon and evening activity.
 * Weekly Patterns: Monday, Tuesday, and Friday saw higher listening volumes, which aligns with typical weekday routines where people might use music to boost focus at the start of the week or unwind as they approach the weekend.
 
 Future Work:
