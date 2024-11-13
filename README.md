@@ -60,7 +60,7 @@ Several interesting insights were uncovered through this analysis:
 * Peak Listening Hours: Most listening occurred after 1pm, suggesting music as a common afternoon and evening activity.
 * Weekly Patterns: Monday, Tuesday, and Friday saw higher listening volumes, which aligns with typical weekday routines where people might use music to boost focus at the start of the week or unwind as they approach the weekend.
 
-Future Work:
+## Future Work:
 This project opens the door to several additional analysis avenues:
 
 * Sentiment Analysis: Performing a sentiment analysis on song lyrics to see if seasonal moods correlate with lyrical themes.
