@@ -73,7 +73,7 @@ This project opens the door to several additional analysis avenues:
   * Log into your Spotify account on the web.
   * Go to Settings > Account Privacy.
   * Look for the option Download Account Data.
-  * To get a more detailed history, select the Download Extended Streaming History option. This will provide a larger pool of data for analysis, though it may take longer to reach your index.
+  * To get a more detailed history, select the Download Extended Streaming History option. This will provide a larger pool of data for analysis, though it may take a few more days to reach your inbox.
   * Once requested, Spotify will email you a download link after processing your data. Download the ZIP file from this link.
   * Extract the ZIP file. Inside, you'll find JSON files labeled as StreamingHistory_music_#.json.
 * Step 2: Open the Google Colab Notebook
@@ -93,4 +93,4 @@ This project opens the door to several additional analysis avenues:
    * Seasonal Listening Habits: Analysis of how your listening varies across different seasons.
 * Step 5: Review and Interpret Your Results
   * Once all cells have run, scroll through the outputs to explore the visualizations and data insights. This analysis will help you see trends and patterns in your Spotify listening habits.
-  * A complete CSV of your data will appear in the left-hand sidebar under files. This data can be downloaded and subsequently used for any visualization tools you wish to use for further visual analysis of your results. In this project, I used Tableau.
+  * A complete CSV of your data will appear in the left-hand sidebar under Files. Although I plan to add more visualizations within the code, you can download this data and use it with any visualization tools of your choice for further analysis. For this project, I used Tableau.
