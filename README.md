@@ -73,7 +73,6 @@ This project opens the door to several additional analysis avenues:
   * Log into your Spotify account on the web.
   * Go to Settings > Account Privacy.
   * Look for the option Download Account Data.
-  * To get a more detailed history, select the Download Extended Streaming History option. This will provide a larger pool of data for analysis, though it may take a few more days to reach your inbox.
   * Once requested, Spotify will email you a download link after processing your data. Download the ZIP file from this link.
   * Extract the ZIP file. Inside, you'll find JSON files labeled as StreamingHistory_music_#.json.
 * Step 2: Open the Google Colab Notebook
