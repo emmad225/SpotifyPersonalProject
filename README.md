@@ -67,3 +67,30 @@ This project opens the door to several additional analysis avenues:
 * Predictive Modeling: Developing models to predict future listening habits based on past trends.
 * Genre Analysis: Expanding the dataset with genre labels to explore genre preferences over time and by season.
 * Web Application for User Data Upload: Develop this project into a web application where users can upload their Spotify listening data to generate their own personalized year-in-review reports. This app could visualize key metrics like top artists, peak listening times, and seasonal trends, creating a unique, interactive experience for any user interested in analyzing their music habits.
+
+## How to Use:
+* Step 1: Download Your Spotify Data
+  * Log into your Spotify account on the web.
+  * Go to Settings > Account Privacy.
+  * Look for the option Download Account Data.
+  * To get a more detailed history, select the Download Extended Streaming History option. This will provide a larger pool of data for analysis, though it may take longer to reach your index.
+  * Once requested, Spotify will email you a download link after processing your data. Download the ZIP file from this link.
+  * Extract the ZIP file. Inside, you'll find JSON files labeled as StreamingHistory_music_#.json.
+* Step 2: Open the Google Colab Notebook
+  * Go to Google Colab.
+  * Open the notebook file Spotify_Project.ipynb in this Repo and create a copy of it.
+  * Familiarize yourself with the notebook interface if needed; each section of the notebook has cells you can run.
+* Step 3: Import Your JSON Files into Google Colab
+  * Click on Choose Files and upload all of your StreamingHistory_music_#.json files.
+  * Ensure all the JSON files are successfully uploaded; you should see them listed under the Files section on the left sidebar.
+* Step 4: Run All Cells in the Notebook
+  * Once the JSON files are uploaded, go to the Runtime menu in Colab.
+  * Select Run All to execute each cell in sequence.
+  * The code will process the JSON data, analyze it, and output visualizations and summaries. These typically include:
+   * Top Artists: List of your most-listened-to artists.
+   * Top Songs: List of your most-played songs.
+   * Listening Hours: Insights into the times of day you listen most.
+   * Seasonal Listening Habits: Analysis of how your listening varies across different seasons.
+* Step 5: Review and Interpret Your Results
+  * Once all cells have run, scroll through the outputs to explore the visualizations and data insights. This analysis will help you see trends and patterns in your Spotify listening habits.
+  * A complete CSV of your data will appear in the left-hand sidebar under files. This data can be downloaded and subsequently used for any visualization tools you wish to use for further visual analysis of your results. In this project, I used Tableau.
